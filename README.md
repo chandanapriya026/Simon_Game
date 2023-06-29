@@ -15,3 +15,6 @@ https://github.com/chandanapriya026/Simon_Game/assets/82746446/6183bb54-0acb-45c
 
 This site was built using GitHub Pages, you can visit this website here
 
+The game starts with four different colors: red, blue, green, and yellow. Your task is to match the computer's color sequence by clicking the corresponding colored buttons on the website.
+
+With each level, the challenge becomes more complex. The computer generates a sequence of colors, and you need to replicate it accurately. For instance, if the first level displays a red color, you must click the red button to proceed. In subsequent levels, the computer highlights a random colored button, and you must remember and reproduce the sequence correctly to advance further.
