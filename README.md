@@ -6,4 +6,8 @@ The game starts with a simple sequence, usually played by the device, where one 
 
 The objective of the Simon game is to repeat the longest sequence correctly, earning points for each successful repetition. However, if the player makes a mistake and presses the wrong button or misses a button in the sequence, the game ends, and the player's score is displayed.
 
-[Uploading simon game.pptx…](Game Demo)
+
+
+
+https://github.com/chandanapriya026/Simon_Game/assets/82746446/6183bb54-0acb-45c3-865b-06662726aee6
+
