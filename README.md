@@ -13,7 +13,7 @@ https://github.com/chandanapriya026/Simon_Game/assets/82746446/6183bb54-0acb-45c
 
 
 
-This site was built using GitHub Pages, you can visit this website here
+This site was built using GitHub Pages, you can visit this website here [https://chandanapriya026.github.io/Simon_Game/](SIMON-GAME)
 
 The game starts with four different colors: red, blue, green, and yellow. Your task is to match the computer's color sequence by clicking the corresponding colored buttons on the website.
 
