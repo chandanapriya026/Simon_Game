@@ -10,5 +10,8 @@ The objective of the Simon game is to repeat the longest sequence correctly, ear
 
 
 https://github.com/chandanapriya026/Simon_Game/assets/82746446/6183bb54-0acb-45c3-865b-06662726aee6
+
+
+
 This site was built using GitHub Pages, you can visit this website here
 
